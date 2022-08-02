@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+선린인터넷고등학교 최초 인트라넷 서비스, 선린 라이프!✨
 <!--
 
 **Here are some ideas to get you started:**
